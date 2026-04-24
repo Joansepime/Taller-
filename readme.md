@@ -1,3 +1,5 @@
 #Titulo: Taller Git
 
-**Nombre**: Joan Pinilla
+**Nombre:** Joan Pinilla
+
+**Carrera:** Sistemas gooood
